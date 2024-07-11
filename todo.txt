@@ -9,3 +9,8 @@ My TO-DO List
 8. Search for short courses in IT.
 
 tttt
+
+a. Enrol for short courses in IT
+b. Complete the course
+c. Get certified
+d. Apply for new IT job
